@@ -1,0 +1,1 @@
+chrome.browserAction.onClicked.addListener(function(){chrome.tabs.executeScript(null,{file:"jquery-1.11.0.min.js"},function(){chrome.tabs.executeScript(null,{file:"jquery.bpopup.min.js"},function(){chrome.tabs.executeScript(null,{file:"extension.js"})})})});

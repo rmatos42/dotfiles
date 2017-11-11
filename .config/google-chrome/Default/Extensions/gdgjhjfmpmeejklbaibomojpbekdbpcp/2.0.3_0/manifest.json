@@ -1,0 +1,20 @@
+{
+   "background": {
+      "scripts": [ "platform.js", "uid.js", "api.js", "composite.js", "intercept.js", "app.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img/icon38.png"
+   },
+   "description": "Wurstify your Web Experience",
+   "icons": {
+      "128": "img/icon128.png",
+      "32": "img/icon32.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq2tWIZnXB+Nb6723EDoEeCEi7aYmopRvzHH7Nj0rIyPGwnn0lVUg/3FNXVqFN2Fj8pe8lHwVV7fxQaKLZUNL6y4pvnxgi//WBLO2Cyzamzjglfmsj5Vo9vDB0hBhC2m6eNcTJACH7j64pZCs5L0aAL4IgZtVPk13O3LxvgWJtpYVYnx79TxaWjLry1THzRrJTPZvSBrFAqpS4KK+99F160wrJWLeqV6UoPUzu9PD+9eW1cutn8nCJ83i45m9seEhqBSauVa/o215tcbsS5wCxWzadluTf6RH3p9LTuoAIVfzZ0yjSRKHb/XAr4Ja+ge9HIBUzttNJTKL73aj/d+mVwIDAQAB",
+   "manifest_version": 2,
+   "name": "Wurstify",
+   "optional_permissions": [ "notifications" ],
+   "permissions": [ "webRequest", "webRequestBlocking", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.3"
+}

@@ -1,0 +1,27 @@
+
+
+-------session starts-------
+
+[11-11 23:7:46.869] INFO: MediaGallery: name=/home/ryley/Music, galleryId=1, isMediaDevice=false, deviceId=undefined
+[11-11 23:7:46.870] INFO: MediaGallery: name=/home/ryley/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[11-11 23:7:46.870] INFO: MediaGallery: name=/home/ryley/Videos, galleryId=3, isMediaDevice=false, deviceId=undefined
+[11-11 23:7:46.871] INFO: Starts a quick scan on /home/ryley/Music
+[11-11 23:7:46.872] INFO: Iterating over dir / from source /home/ryley/Music
+[11-11 23:7:46.872] INFO: Starts a quick scan on /home/ryley/Pictures
+[11-11 23:7:46.873] INFO: Iterating over dir / from source /home/ryley/Pictures
+[11-11 23:7:46.873] INFO: Starts a quick scan on /home/ryley/Videos
+[11-11 23:7:46.873] INFO: Iterating over dir / from source /home/ryley/Videos
+[11-11 23:7:46.874] INFO: /home/ryley/Music does not contain music file
+[11-11 23:7:46.874] INFO: /home/ryley/Pictures does not contain music file
+[11-11 23:7:46.875] INFO: /home/ryley/Videos does not contain music file
+[11-11 23:7:46.884] INFO: Got the drag_and_drop directory
+[11-11 23:7:46.944] INFO: lsUserAddedMusicSourceIds=null
+[11-11 23:7:46.945] INFO: lsLastTrackFailureLoggingTime=null
+[11-11 23:7:46.945] INFO: lsUserSelectedDownloadDirId=null
+[11-11 23:7:46.948] INFO: lsDefaultDownloadLocationId=null
+[11-11 23:7:46.948] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[11-11 23:7:46.948] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[11-11 23:7:48.301] INFO: lsAppActivated=false
+[11-11 23:7:48.302] INFO: lsDragAndDropActivated=false
+[11-11 23:7:48.302] INFO: Nacl version: 1.0.257.2084
+[11-11 23:7:48.305] INFO: lsAppActivated=false

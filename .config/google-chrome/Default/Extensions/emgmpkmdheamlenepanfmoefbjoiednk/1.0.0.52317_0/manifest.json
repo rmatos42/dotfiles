@@ -1,0 +1,45 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "icons/128.png",
+         "16": "icons/16.png",
+         "32": "icons/32.png",
+         "48": "icons/48.png"
+      },
+      "default_title": "Direct Search Yahoo! Extension"
+   },
+   "chrome_settings_overrides": {
+      "search_provider": {
+         "encoding": "UTF-8",
+         "favicon_url": "http://services.srchnet.net/favicon.ico",
+         "is_default": true,
+         "keyword": "Yahoo",
+         "name": "WebSearch Yahoo Extension",
+         "search_url": "http://services.srchnet.net/search/{searchTerms}"
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "*://*.loveroms.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Direct Search Yahoo! Extension updates your browser settings to use Yahoo! as the default search provider.",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwdruTvXbUqwIuVQtjDVEjj2hKhtDJ3aj0qOCKC07rdwEgh8FbyX5F4l7fiCXnM+iuaXzB93fEJqJE4WVjBG6lyd6G26+zBUZpaQo3B2ALDW8sFb4qoIgCZZVtDjTnrSvX7sKTcwuqedMAt6qlWT6ogo4V3UmyEhQEHKwMwmbRXS1b8NZ2owRvl4k1rpxWMq14X/cRSnusmA8LUcOMbN/QNWXkaA9+P7qiCBRJ4HdCY+EYGpPo7SM2sIlq4WBH3qlfpzmmcFJ/+OydUGwAbUyipdnqyZO0g41KU7pQ5AfWrPHGbsKxXz6+QQ6nwJxy+R2sZbVABE9kyzedQVGBTpoHwIDAQAB",
+   "manifest_version": 2,
+   "name": "Direct Search Yahoo! Extension",
+   "permissions": [ "http://*/*", "https://*/*", "cookies", "storage", "tabs", "webRequest", "webRequestBlocking" ],
+   "short_name": "WebSearch",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.52317",
+   "web_accessible_resources": [ "/icons/16.png" ]
+}

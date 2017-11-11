@@ -1,0 +1,24 @@
+{
+   "background": {
+      "scripts": [ "bg.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html",
+      "default_title": "Password Revealer"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval';object-src 'self';",
+   "description": "This version allows to see asterisk and hidden fields",
+   "icons": {
+      "128": "icon.png",
+      "16": "icon.png",
+      "32": "icon.png",
+      "48": "icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCw8qQ18RHiVP8/8U61GfP4159mt6rgGTHlWDxMDflpeOihht8xb9wpWi6vEYHsVn3Tf1kXECWEHc0ZUfiWaYWdGSCqoJ31ayOnjyJYXFRe1z2PRlw0cU4R8B57WkFsQCti3AgcFF0orydZkzzIBO8DuBjXFP+Q7hMgCayBhH9TKQIDAQAB",
+   "manifest_version": 2,
+   "name": "HTML Revealer and Password Revealer",
+   "permissions": [ "tabs", "http://*/*", "https://*/*", "webRequest", "webRequestBlocking", "webNavigation", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.4"
+}

@@ -1,0 +1,17 @@
+2017/10/01-01:29:26.509 2033 Reusing MANIFEST /home/ryley/.config/Popcorn-Time-CE/IndexedDB/app_host_0.indexeddb.leveldb/MANIFEST-000001
+2017/10/01-01:29:26.510 2033 Recovering log #11
+2017/10/01-01:29:26.510 2033 Reusing old log /home/ryley/.config/Popcorn-Time-CE/IndexedDB/app_host_0.indexeddb.leveldb/000011.log 
+2017/10/01-01:29:26.959 2033 Current memtable full; waiting...
+2017/10/01-01:29:26.959 10829 Level-0 table #15: started
+2017/10/01-01:29:27.004 10829 Level-0 table #15: 330 bytes OK
+2017/10/01-01:29:27.071 10829 Delete type=0 #11
+2017/10/01-01:29:27.072 10829 Level-0 table #17: started
+2017/10/01-01:29:27.072 10829 Level-0 table #17: 0 bytes OK
+2017/10/01-01:29:27.138 10829 Delete type=0 #14
+2017/10/01-01:29:27.139 10829 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 29 : 1
+2017/10/01-01:29:27.139 10829 Compacting 1@0 + 1@1 files
+2017/10/01-01:29:27.183 10829 Generated table #18: 3 keys, 288 bytes
+2017/10/01-01:29:27.183 10829 Compacted 1@0 + 1@1 files => 288 bytes
+2017/10/01-01:29:27.250 10829 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/10/01-01:29:27.250 10829 Delete type=2 #15
+2017/10/01-01:29:27.250 10829 Manual compaction at level-0 from '\x00\x03\x00\x00\x05' @ 29 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

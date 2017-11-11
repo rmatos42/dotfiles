@@ -1,0 +1,22 @@
+{
+   "background_page": "background.html",
+   "browser_action": {
+      "default_icon": "ico/inactive.png"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/lib/jquery-1.3.1.min.js", "js/lib/jquery-ui-personalized-1.5.3.min.js", "js/lib/jquery.jeditable.js", "js/lib/json2.js", "js/lib/persist.js", "js/lib/jquery.jeditable.autogrow.js", "js/lib/jquery.autogrow.js", "js/lib/jquery.jeditable.ajaxupload.js", "js/lib/jquery.ajaxfileupload.js", "js/lwe.js", "js/connector.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "description": "Make persistent changes to any web page, live from the browser!",
+   "icons": {
+      "128": "ico/128.png",
+      "16": "ico/16.png",
+      "48": "ico/48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDNE9n9GOxv2WmF8sLp7z7nFUNeY0Z01OW8DjUIW+YEJS5XMKDXkjiretRP0qtRa9C59Q5FC52bPIbytgjbGyzBBtW72q/HWhHSBb2mAn3PAs8wnbAMRcCbuMYo5Ol28QXoEa0xEp8qpu0+9nLMoJHgn+3p2qhyNbraqPvn8kuAkwIDAQAB",
+   "name": "Live Website Editor",
+   "permissions": [ "tabs", "http://*/*" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.3"
+}

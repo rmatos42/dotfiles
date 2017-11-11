@@ -1,0 +1,4 @@
+{"type":"editor.appRunning.v1","msg":{"ts":1501768258403,"duration":301,"focus_duration":297,"user_duration":205,"local_time_offset":28800000}}
+(2){"type":"editor.projectInfo.v1","msg":{"ts":1501768258403,"assets":{"free":0,"free_after_pro":0,"total":52,"total_without_builtins":0}}}
+{"type":"editor.appRunning.v1","msg":{"ts":1501768345313,"duration":388,"focus_duration":769,"user_duration":212,"local_time_offset":28800000}}
+(1){"type":"editor.appStop.v1","msg":{"ts":1501768345313}}

@@ -1,0 +1,28 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="AA" type="int">8</pref>
+	<pref name="AbilityProgressBinaryPlayerPrefs" type="string">MTAx</pref>
+	<pref name="FOV" type="int">90</pref>
+	<pref name="FirstTime1" type="int">1</pref>
+	<pref name="Screenmanager Is Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">768</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1366</pref>
+	<pref name="ShowTwitch4" type="int">1</pref>
+	<pref name="TAA" type="int">0</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="aberr" type="int">1</pref>
+	<pref name="bloom" type="int">1</pref>
+	<pref name="currentLevel" type="int">50</pref>
+	<pref name="currentLevelChristmas" type="int">1</pref>
+	<pref name="currentLevelHalloween" type="int">1</pref>
+	<pref name="inverted" type="int">0</pref>
+	<pref name="invertedX" type="int">0</pref>
+	<pref name="level" type="int">1</pref>
+	<pref name="master" type="float">1.1</pref>
+	<pref name="music" type="float">0.6</pref>
+	<pref name="playThroughTime" type="float">6.79112</pref>
+	<pref name="points" type="float">39867</pref>
+	<pref name="shadowD" type="int">150</pref>
+	<pref name="ssao" type="int">0</pref>
+	<pref name="vSync" type="int">1</pref>
+	<pref name="vignette" type="int">1</pref>
+</unity_prefs>

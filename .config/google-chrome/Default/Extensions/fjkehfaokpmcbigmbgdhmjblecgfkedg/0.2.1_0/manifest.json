@@ -1,0 +1,18 @@
+{
+   "content_scripts": [ {
+      "js": [ "content_script.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Finds any mention of Donald Trump on a website and adds an actual Donald Trump quote to his name.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApS0DEuxNwzbOK1pltyV0VZj/uzNu4nyR0g/3YBN4aSKwAn+3/GqWEYUtXBzTj4yPXmk+J4hCh2JWa7Ma5tS/AIAXEUPC0vQtzHkalRnsCnmlJglx/F0Y+3Q3YQi6WGSNbbqwDyeRRqEWgF9BUgRYsDLJemo6Onyq2eap+L622OJmgnjQ349jZN1wVtF88/QbxuGM0tJ2ywRzti/Cj6qL792StYqDvMelz07lcLd63RG8/N3A8y2XyAh03KsrepTR25OwHAJgI0Y9ybpr5zntgzVu1YsnyAc5H8NlFexjOm44atCCLyPiOAARLZzo4REbxFMAoMrRacVFxhuQEGaXKwIDAQAB",
+   "manifest_version": 2,
+   "name": "The Trumpweb",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.1"
+}

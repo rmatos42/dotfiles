@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="ActiveDocks" mtime="1502707045" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>Dock1</stringvalue>
+		</li>
+	</entry>
+</gconf>

@@ -1,0 +1,26 @@
+
+
+-------session starts-------
+
+[9-16 20:10:59.663] INFO: Got the drag_and_drop directory
+[9-16 20:11:0.829] WARNING: Tier change detected
+[9-16 20:11:0.829] INFO: Fetched user settings from server.
+[9-16 20:11:0.834] INFO: chromeapp:E ready
+[9-16 20:11:0.868] INFO: MediaGallery: name=/home/ryley/Music, galleryId=1, isMediaDevice=false, deviceId=undefined
+[9-16 20:11:0.869] INFO: MediaGallery: name=/home/ryley/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[9-16 20:11:0.869] INFO: MediaGallery: name=/home/ryley/Videos, galleryId=3, isMediaDevice=false, deviceId=undefined
+[9-16 20:11:0.871] INFO: Starts a quick scan on /home/ryley/Music
+[9-16 20:11:0.872] INFO: Iterating over dir / from source /home/ryley/Music
+[9-16 20:11:0.872] INFO: Starts a quick scan on /home/ryley/Pictures
+[9-16 20:11:0.872] INFO: Iterating over dir / from source /home/ryley/Pictures
+[9-16 20:11:0.872] INFO: Starts a quick scan on /home/ryley/Videos
+[9-16 20:11:0.872] INFO: Iterating over dir / from source /home/ryley/Videos
+[9-16 20:11:0.878] INFO: lsUserAddedMusicSourceIds=null
+[9-16 20:11:0.878] INFO: lsLastTrackFailureLoggingTime=null
+[9-16 20:11:1.475] INFO: /home/ryley/Music does not contain music file
+[9-16 20:11:1.479] INFO: /home/ryley/Pictures does not contain music file
+[9-16 20:11:1.479] INFO: /home/ryley/Videos does not contain music file
+[9-16 20:11:1.479] INFO: lsUserSelectedDownloadDirId=null
+[9-16 20:11:1.482] INFO: lsDefaultDownloadLocationId=null
+[9-16 20:11:1.482] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[9-16 20:11:1.482] INFO: Setting is already: lsDefaultDownloadLocationId = null

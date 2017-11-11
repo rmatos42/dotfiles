@@ -1,0 +1,4 @@
+2017/10/01-01:29:33.359 10873 Reusing MANIFEST /home/ryley/.config/Popcorn-Time-CE/IndexedDB/app_host_0.indexeddb.leveldb/MANIFEST-000001
+2017/10/01-01:29:33.359 10873 Recovering log #16
+2017/10/01-01:29:33.359 10873 Reusing old log /home/ryley/.config/Popcorn-Time-CE/IndexedDB/app_host_0.indexeddb.leveldb/000016.log 
+2017/10/01-01:29:33.360 10873 Delete type=2 #10

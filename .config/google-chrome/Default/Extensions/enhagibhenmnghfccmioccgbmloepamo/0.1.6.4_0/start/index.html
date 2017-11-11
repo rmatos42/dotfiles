@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <title>New Tab</title>
+
+    <!-- External Style -->
+    <link rel="stylesheet" type="text/css" href="/start/skin/css/sweetalert.css">
+    <!-- Newtab Styles -->
+    <link rel="stylesheet" type="text/css" href="/start/skin/css/styles.css">
+
+    <!-- initialize utils and common -->
+    <script data-source="internal" type="text/javascript" src="/start/chrome/settings.js"></script>
+    <script data-source="internal" type="text/javascript" src="/start/common/prefs-sys.js"></script>
+    <script data-source="internal" type="text/javascript" src="/start/chrome/utils.js"></script>
+    <script data-source="internal" type="text/javascript" src="/start/chrome/common.js"></script>
+    <script data-source="internal" type="text/javascript" src="/start/search/search-engines.js"></script>
+
+    <!-- External Scripts -->
+    <script type="text/javascript" src="/start/external/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="/start/external/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="/start/external/sweetalert.min.js"></script>
+    <script type="text/javascript" src="/start/external/tooltip.js"></script>
+</head>
+<body>
+
+<!-- background -->
+<div class="background" id="__bg">
+    <div class="top_gradient"></div>
+    <div class="bottom_gradient"></div>
+</div>
+<script data-source="internal" type="text/javascript" src="/start/search/front-load.js"></script>
+
+<!-- New Tab base -->
+<script data-source="internal" type="text/javascript" src="/start/search/newtab-base.js"></script>
+<script data-source="internal" type="text/javascript" src="/start/search/AutoSuggest.js"></script>
+<script data-source="internal" type="text/javascript" src="/start/search/search-form.js"></script>
+<script data-source="internal" type="text/javascript" src="/start/search/todo_script.js"></script>
+
+<!-- begin main content -->
+<div id="wrapper" style="display: none;">
+    
+    <nav>
+        <div class="most_visited">
+            <a id="lnk_topsites">Most Visited</a>
+            <div class="nav_menu" id="topsites_menu">
+                <div><a id="lnk_bookmarks" href="/how-to-show-bookmarks-bar/?utm_campaign=Extensions&utm_medium=mostvisited" target="_blank">Show Bookmarks</a></div>
+                <hr>
+            </div>
+        </div>
+
+        <div class="apps">
+            <a id="lnk_tool">Apps</a>
+            <div class="nav_menu" id="tool_menu">
+            </div>
+        </div>
+
+        <div class="share">
+            <a id="lnk_share">Share</a>
+            <div class="nav_menu" id="share_menu">
+                <div><a id="click-ShareFB" href="#"><i class="icon_facebook"></i>Facebook</a></div>
+                <hr>
+                <div><a id="click-ShareTW" href="#"><i class="icon_twitter"></i>Tweet</a></div>
+                <hr>
+                <div><a id="click-ShareGG" href="#"><i class="icon_googleplus"></i>Google+</a></div>
+                <hr>
+                <div><a id="click-SharePI" href="#"><i class="icon_pinterest"></i>Pinterest</a></div>
+                <hr>
+                <div><a id="click-ShareTU" href="#"><i class="icon_tumblr"></i>Tumblr</a></div>
+                <hr>
+                <div><a id="click-ShareVK" href="#"><i class="icon_vk"></i>VK</a></div>
+            </div>
+       </div>
+        <a id="click-Rate" href="#">Rate</a>
+    </nav>
+
+    <div class="search-box">
+        
+        <div id="search-box-wrapper">
+            <div id="search-box">
+                <input id="search-input" dir="auto" type="search" autofocus="autofocus" tabindex="1" placeholder="Search Google"/>
+            </div>
+        </div>
+        <ul id="search-suggestion-pad"></ul>
+    </div>
+
+    <div class="widght">
+        <div class="toggle" data-toggle="tooltip" data-placement="bottom" title="Click to change your background">
+            <span id="background_selector_menu">Options</span>
+            <!--<a href="#" id="background_selector"><img id="background_selector_img" src="/start/skin/images/brush-white.png"></a>-->
+            <span href="#" id="weather" class="clock"><img src="/start/skin/images/clock.png"></span>
+        </div>
+        <div class="time" data-toggle="tooltip" data-placement="bottom" title="Click to change between 24 and 12 hours">
+            <h1 class="hour">
+                12:00
+            </h1>
+            <div class="ampm">AM</div>
+            <div class="date">
+                <p class="day">Saturday</p>
+                <p class="num">31.12.2016</p>
+            </div>
+        </div>
+        <div class="weather">
+            <h1 data-toggle="tooltip" data-placement="bottom" title="Click to change between °F and °C">
+              <span class="val"></span><em class="deg">&deg;</em><span id="weather_widget_unit" class="units">C</span>
+            </h1>
+            <div id="weather_info_display" class="fright" data-toggle="tooltip" data-placement="bottom" title="Click to change city">
+                <!--<div class="icon"><img src="" alt=""></div>-->
+                <div class="condition"></div>
+                <div class="city"></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="error_box">
+        <table>
+            <tr>
+            <td id="error_weather_messager">
+                <p>Unable to get weather data. Click here to change city for weather.</p>
+            </td>
+            <td data-toggle="tooltip" data-placement="bottom" title="Click to disable Weather Indicator">
+                <img id="delete_button" width="20" height="20" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAEaUlEQVRoQ+2ZP0wjRxTGPzc265zOoOAGFyEVlNBE/CkMkk0LqSmAlgpEhYQEkXBlENDQAgX1QYuRbArAnV2CmzgFXIkdRTbnKzh9mx208e2fmb0xF538JMvFzs7Ob95737x9G8IPYqEfhANdkP+bJ7se6XqkQzvQqdBKAugFMNK27jKAGoAr3Tw6QWYBzFk/QngZYc6s37kOKB0gXPwegEEuKJVK1efn52ODg4Po7e3FyMi/TimXy6jVaqhWqzg9Pa1fXl7GLIAqgFULKjDTt4Bw4UcApvr7+//JZrPv5ubmzMXLGKHOzs6wvLzcajabYQAFAEsACKZsQUG4zflwOBxZX183VlZWpAHaV0ignZ2d52w2+9JqtT4BmKYDVUmCgCzSE4ZhtG5ubsIidFQf3D6eoTcxMSG8Q88cq8ypCkJPlIaGhprFYtGQDSPZBdE7Y2Njzfv7ewPAqIpnVECYEyXDMKKPj49h3RACljADAwP0TMOCkcoZFZB8JBIZKxaLPbrCyc1TDLPRUTrEFADmjK/JglBiP2xubmJra8t3Uh0DNjY2njOZTA+A32WkWRbkz3g8Hq9UKj85hVShUMDV1RUIqmIHBwdIJpOvZ439XoZYIpH43Gg0HgD86jevDIjpjaOjIywuUrC+tv39fayurprXOU7GlpaWcHx8jL29PVC+nYzXOU7GKzIglMGFp6cnz7OCECcnJ1IwAmJhYcGEcTN6pa+vj5dPADjvonWzDMhTKpUK5XI5UVK4PlgGRhZCPCSdTrOceQFgErmZH8gUT3CvsGqf2AtGFYJzi7C11Isq5mh+IGZ+5PN5TE2RSc6cYIJA8GkUkulpU4E91csPhFq7WSqVHJXFC8sOw3HMBb+ccJrPdqb8AcBV+6VAXl4YouomYHhnEAjxxFDIXOb3AxHhxFWoSHP7lmkDCRJa9pzgwmSluR1CV2gFSnanxJaRZqfg1ZXsyvLrpU5BYGynO6UrsPxyk2rpdDp0cXHx3i/dZSRWFWZmZubvXC5HtfF8h/ZTLVM5ZUoUGQixEbIwuksU6aJRRWIFzFsWjdzIajwe/7lSqbxzKuOpLExKtyrWLSRZfrBicHpRs8r4VqPR+ChaTV6hLRNavP97vFh9ymQyEb/S5PXQ9Etg2/VCJBL5jU2HN3zVZWtVqsiT9Qh52HwoR6NR4+HhoaPNh0QiwZBqWr1j7c0HwpjtoOHh4ebt7W1H2kHj4+PNu7u7jraDXtWTDbpoNNq6vr7W2qCbnJykJ9g+7XiDTsDQMzxlY+x2rK2t9QTtc1Gddnd3n7e3t9kxqVs58SYtUwHDnOFhmaR3Dg8Pw7Ozs9I9YAKcn5+bTWzLC0xsvpdL5cRXFbKCarkNpTTvA/iFA/iOLT4rxGKx/3xWqNfrr58VbD2AvwCwjcLvJYFNRbX8HiI+8vDfr1HBEBIfer4JIMg54gdiv07t9/r05lrFqjzEPlanR4KuQct9XRAt26hxkq5HNG6mlqm6HtGyjRon+QIFQRNRRPZ93AAAAABJRU5ErkJggg==">
+            </td>
+            </tr>
+        </table>
+    </div>
+
+    <div id="background_selector_widget" class="triangle-top">
+    <div id="tabs">
+        <ul>
+          <li>
+            <a href="#tab-background">
+              <div class="tab-control">Background</div>
+            </a>
+          </li>
+          <li>
+            <a href="#tab-relative-apps">
+              <div class="tab-control">Must-have Related Themes</div>
+            </a>
+          </li>
+        </ul>
+        <div class="main">
+            <div id="tab-background">
+                <ul id="images_selector">
+                    <!-- <li><img data-src="bg-01.jpg" src="/start/skin/images/bg-01.jpg"></li> -->
+                </ul>
+            </div>
+            <div id="tab-relative-apps">
+                <div class="t-r-a-s">
+                    <table></table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bgFooter">
+        <div class="bg-f-r">
+            <div class="bg-f-c">
+                <div class="checkbox">
+                    <label><input type="checkbox" id="shuffle_background" />Shuffle All Images</label>
+                </div>
+                <div class="checkbox">
+                    <label><input type="checkbox" id="shuffle_favorites" />Shuffle Favorite Images</label>
+                </div>
+                <div class="checkbox">
+                  <label>
+                    <input type="checkbox" id="random_all_newtab">Random All NewTabs</label>
+                </div>
+            </div>
+
+            <div class="bg-f-c">
+                <div class="checkbox">
+                    <label><input type="checkbox" id="disable_most_visited" />Disable Most Visited</label>
+                </div>
+                <div class="checkbox">
+                    <label><input type="checkbox" id="disable_apps" />Disable Apps</label>
+                </div>
+                <div class="checkbox">
+                    <label><input type="checkbox" id="disable_share" />Disable Share</label>
+                </div>
+            </div>
+
+            <div class="bg-f-c">
+                <div class="checkbox inline">
+                    <label><input type="checkbox" id="disable_todo" />Disable To Do</label>
+                </div>
+            </div>
+        </div>
+
+        <div id="change_city_box">
+            <!-- <h4 class="f-heading">Change weather location</h4> -->
+            <input id="city_name" disabled>
+            <input type="submit" id="change_city" value="Change City">
+            <div class="checkbox" id="checkbox_disable_weather">
+                <label><input type="checkbox" id="disable_weather" />Disable Weather</label>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <div class="undo-box undo-box-hide">
+        <div class="_row">
+            <span id="msg"></span>
+            <span class="undo-btn"  id="undobtn" >Undo</span>
+            <span class="close" id="close-undo-box-btn"></span>
+        </div>
+    </div>
+
+    <footer>
+        <div class="to-do">
+            <a id="lnk_todo">Todo</a>
+            <div class="todo-panel">
+                <div class="todo-controller">
+                    <i id="hide_todoPanel">
+                    </i>
+                </div>
+                <div class="todo_list">
+                    <ul>
+                    </ul>
+                </div>
+                <div class="newTodo_box">
+                    <input type="text" class="newToDo" placeholder="New Todo" autofocus id="newToDo">
+                </div>
+            </div>
+        </div>
+        <div class="quotes">
+              <div id="quote" class="quote"></div>
+        </div>
+        <div class="support">
+            <a id="lnk_support">Support</a>
+            <div class="nav_menu" id="support_menu">
+                <div><a id="lnk_faq" href="/faq" target="_blank">FAQ / How-to</a></div>
+                <hr>
+                <div><a id="click-Feedback" href="#">Feedback</a></div>
+                <hr>
+                <div><a id="click-Donate" href="#">Donate</a></div>
+                <hr>
+                <div><a id="lnk_eula" href="/eula" target="_blank">EULA</a></div>
+                <hr>
+                <div><a id="lnk_pp" href="/privacy" target="_blank">Privacy Policy</a></div>
+                <hr>
+                <div><a id="uninstallSelf">Uninstall</a></div>
+            </div>
+        </div>
+    </footer>
+</div>
+
+</body>
+</html>

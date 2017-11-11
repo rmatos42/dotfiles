@@ -1,0 +1,1145 @@
+Desktop is 1366 x 768 @ 60 Hz
+
+LICENSE SYSTEM [201783 6:44:59] No start/stop license dates set
+
+LICENSE SYSTEM [201783 6:44:59] Next license update check is after 2017-08-04T19:54:43
+
+
+ COMMAND LINE ARGUMENTS:
+/opt/Unity/Editor/Unity
+-no-throttle-updates
+[0803/064459:ERROR:browser_main_loop.cc(161)] Running without the SUID sandbox! See https://code.google.com/p/chromium/wiki/LinuxSUIDSandboxDevelopment for more information on developing with the sandbox on.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[0803/064459:ERROR:renderer_main.cc(227)] Running without renderer sandbox
+[0803/064459:ERROR:gpu_process_transport_factory.cc(402)] Failed to establish GPU channel.
+[CEF] undefined in file:///%2Fhome%2Fryley%2F.local%2Fshare%2Funity3d%2FPackages%2Fnode_modules%2Funity-editor-home%2Fdist/assets/unity-editor-home.js at line 39
+Error loading launcher://unity//home/ryley/.local/share/unity3d/Packages/node_modules/unity-editor-home/dist/index.html?code=7aORwOLVPXcUmq6SpkWNsg002f&locale=en&session_state=e7266298093b896a5417c982719d3b7ccf8c00892f24bf36eed9ce50a4d8bf5b.pgrKBpvCRXK2jWKLIFgnAw012f#/login
+
+ 
+(Filename: /home/builduser/buildslave/unity/build/Editor/Platform/Interface/NativeWebViewWindow.cpp Line: 51)
+
+[CEF] undefined in file:///home/ryley/.local/share/unity3d/Packages/node_modules/unity-editor-home/dist/assets/unity-editor-home.js at line 39
+
+LICENSE SYSTEM [201783 6:45:2] No start/stop license dates set
+
+LICENSE SYSTEM [201783 6:45:2] Next license update check is after 2017-08-04T19:54:43
+
+IsTimeToCheckForNewEditor: Update time 0 current 1501767952
+/home/ryley/bullets
+UpdateMenuTitleForLanguage: 10
+Audio: FMOD Profiler initialized on port 54900
+AudioManager: Using PulseAudio: Default Output Device
+Loading GUID <-> Path mappings...0.000025 seconds
+Loading Asset Database...0.000003 seconds
+AssetDatabase consistency checks...0.000035 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2017.1.0xf3Linux (061bcf22327f)
+Renderer: Mesa DRI Intel(R) Haswell Mobile 
+Vendor:   Intel Open Source Technology Center
+Version:  4.5 (Core Profile) Mesa 17.1.5
+GLES:     0
+ GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_draw_buffers_blend GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_trinary_minmax GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_APPLE_object_purgeable GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location
+ GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_sprite GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_bit_encoding
+ GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_packing GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_tex
+ture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_int
+eger GL_EXT_texture_sRGB GL_EXT_texture_sRGB_decode GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_IBM_multimode_draw_arrays GL_INTEL_performance_query GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_conditional_render GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 2020958656
+Initialize mono
+Mono path[0] = '/opt/Unity/Editor/Data/Managed'
+Mono path[1] = '/opt/Unity/Editor/Data/Mono/lib/mono/2.0'
+Mono config path = '/opt/Unity/Editor/Data/Mono/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56201
+Begin MonoManager ReloadAssembly
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEngine.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.Locator.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.DataContract.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Core.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.IvyParser.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Xml.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Configuration.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/2017.1.0/Unity.PackageManager.dll (this message is harmless)
+Initializing Unity.PackageManager (PackageManager) v2017.1.0 for Unity v2017.1.0xf3Linux
+Setting Android:Android v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer
+Setting Standalone:StandaloneLinux v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
+Setting Standalone:StandaloneOSXIntel v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport
+Setting SamsungTV:SamsungTV v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer
+Setting Tizen:Tizen v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer
+Setting WebGL:WebGL v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport
+Setting Standalone:StandaloneWindows v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+Setting Unknown:MetroPlayer v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport
+Setting Advertisements v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements
+  UnityEngine.Advertisements.dll (Extension) GUID: 739bbd9f364b4268874f9fd86ab3beef
+  Editor/UnityEditor.Advertisements.dll (Extension) GUID: 97decbdab0634cdd991f8d23ddf0dead
+Setting GUISystem v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem
+  UnityEngine.UI.dll (Extension) GUID: f5f67c52d1564df4a8936ccd202a3bd8
+  Standalone/UnityEngine.UI.dll (Extension) GUID: f70555f144d8491a825f0804e09c671c
+  Editor/UnityEditor.UI.dll (Extension) GUID: 80a3616ca19596e4da0f10f14d241e9f
+Setting UNetHLAPI v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking
+  UnityEngine.Networking.dll (Extension) GUID: 870353891bb340e2b2a9c8707e7419ba
+  Standalone/UnityEngine.Networking.dll (Extension) GUID: dc443db3e92b4983b9738c1131f555cb
+  Editor/UnityEditor.Networking.dll (Extension) GUID: 5f32cd94baa94578a686d4b9d6b660f7
+Setting TestRunner v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner
+  Editor/UnityEditor.TestRunner.dll (Extension) GUID: 4113173d5e95493ab8765d7b08371de4
+  UnityEngine.TestRunner.dll (Extension) GUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+  net35/unity-custom/nunit.framework.dll (Extension) GUID: 4b3fa4bde7f1451a8218c03ee6a8ded8
+  portable/nunit.framework.dll (Extension) GUID: 405b9b51bb344a128608d968297df79c
+Setting Timeline v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline
+  RuntimeEditor/UnityEngine.Timeline.dll (Extension) GUID: 844F815391DB42D49455CBF1A7BFC434
+  Runtime/UnityEngine.Timeline.dll (Extension) GUID: 6a10b2909283487f913b00d94cd3faf5
+System.SystemException: Error running gmcs: Cannot find the specified file
+  at Mono.CSharp.CSharpCodeCompiler.CompileFromFileBatch (System.CodeDom.Compiler.CompilerParameters options, System.String[] fileNames) [0x00000] in <filename unknown>:0 
+  at Mono.CSharp.CSharpCodeCompiler.CompileAssemblyFromFileBatch (System.CodeDom.Compiler.CompilerParameters options, System.String[] fileNames) [0x00000] in <filename unknown>:0 
+  at Mono.CSharp.CSharpCodeCompiler.CompileAssemblyFromFile (System.CodeDom.Compiler.CompilerParameters options, System.String fileName) [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.GenerateSerializers (System.Xml.Serialization.GenerationBatch batch, System.CodeDom.Compiler.CompilerParameters cp) [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.RunSerializerGeneration (System.Object obj) [0x00000] in <filename unknown>:0 
+System.SystemException: Error running gmcs: Cannot find the specified file
+  at Mono.CSharp.CSharpCodeCompiler.CompileFromFileBatch (System.CodeDom.Compiler.CompilerParameters options, System.String[] fileNames) [0x00000] in <filename unknown>:0 
+  at Mono.CSharp.CSharpCodeCompiler.CompileAssemblyFromFileBatch (System.CodeDom.Compiler.CompilerParameters options, System.String[] fileNames) [0x00000] in <filename unknown>:0 
+  at Mono.CSharp.CSharpCodeCompiler.CompileAssemblyFromFile (System.CodeDom.Compiler.CompilerParameters options, System.String fileName) [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.GenerateSerializers (System.Xml.Serialization.GenerationBatch batch, System.CodeDom.Compiler.CompilerParameters cp) [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.RunSerializerGeneration (System.Object obj) [0x00000] in <filename unknown>:0 
+  Editor/UnityEditor.Timeline.dll (Extension) GUID: 7668179ede524d6396c8b7d84461ea29
+Setting TreeEditor v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor
+  Editor/UnityEditor.TreeEditor.dll (Extension) GUID: adebbd281f1a4ef3a30be7f21937e02f
+Setting UnityAnalytics v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics
+  UnityEngine.Analytics.dll (Extension) GUID: 852E56802EB941638ACBB491814497B0
+  Editor/UnityEditor.Analytics.dll (Extension) GUID: 86f4de9468454445ac2f39e207fafa3a
+Setting UnityHoloLens v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens
+  Editor/UnityEditor.HoloLens.dll (Extension) GUID: 12fd8a0055b84bb59e84c9835a37e333
+  Runtime/UnityEngine.HoloLens.dll (Extension) GUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+  RuntimeEditor/UnityEngine.HoloLens.dll (Extension) GUID: 1c6d1fbb51834b64847b1b73a75bfc77
+Setting UnityPurchasing v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing
+  UnityEngine.Purchasing.dll (Extension) GUID: 8E0CD8ED44D4412CBE0642067ABC9E44
+  Editor/UnityEditor.Purchasing.dll (Extension) GUID: 8382B2BB260241859771B69B7F377A8D
+Setting UnityVR v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityVR
+  Editor/UnityEditor.VR.dll (Extension) GUID: 4ba2329b63d54f0187bcaa12486b1b0f
+Registering precompiled unity dll's ...
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/UnityEditor.Tizen.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/UnityEditor.SamsungTV.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003778 seconds.
+Platform assembly: /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/2017.1.0/Unity.PackageManager.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/2017.1.0/Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/Editor/UnityEditor.Purchasing.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/Editor/UnityEditor.Purchasing.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/UnityEditor.Tizen.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/UnityEditor.Tizen.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/UnityEditor.SamsungTV.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/UnityEditor.SamsungTV.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Managed/ExCSS.Unity.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Platform assembly: /opt/Unity/Editor/Data/Managed/Mono.Cecil.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.SerializationLogic.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.Legacy.NRefactory.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Xml.Linq.dll (this message is harmless)
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.iOS.Extensions.Xcode.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll (this message is harmless)
+Mono: successfully reloaded assembly
+Downloading http://update.unity3d.com/2017.1/ivy.xml to /tmp/unity/744d598d-b6fd-4626-8710-85faa8165489/ivy.xml
+- Completed reload, in  0.519 seconds
+Registering platform support modules:
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Compiler.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Parser.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.Lang.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Mono.Security.dll (this message is harmless)
+Registered platform support modules in: 0.0845541s.
+Native extension for OSXStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Native extension for SamsungTV target not found
+Native extension for Tizen target not found
+Loading native library: UnityEditor.iOS.Native at /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Native.so
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Begin MonoManager ReloadAssembly
+Shutting down Remote Indexer
+Task failed: Downloader Task
+Cancelling tasks, domain is going down
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEngine.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.Locator.dll (this message is harmless)
+Registering precompiled user dll's ...
+Registered in 0.000023 seconds.
+Platform assembly: /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/2017.1.0/Unity.PackageManager.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/2017.1.0/Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/Editor/UnityEditor.Purchasing.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/Editor/UnityEditor.Purchasing.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/UnityEditor.Tizen.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/UnityEditor.Tizen.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/UnityEditor.SamsungTV.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/UnityEditor.SamsungTV.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Core.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/ExCSS.Unity.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.DataContract.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Mono.Cecil.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.SerializationLogic.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.Legacy.NRefactory.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Xml.Linq.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.IvyParser.dll (this message is harmless)
+Mono: successfully reloaded assembly
+- Completed reload, in  0.531 seconds
+Initializing Unity.PackageManager (PackageManager) v2017.1.0 for Unity v2017.1.0xf3Linux
+Setting Android:Android v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer
+Setting Standalone:StandaloneLinux v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
+Setting Standalone:StandaloneOSXIntel v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport
+Setting SamsungTV:SamsungTV v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer
+Setting Tizen:Tizen v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer
+Setting WebGL:WebGL v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport
+Setting Standalone:StandaloneWindows v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+Setting Unknown:MetroPlayer v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport
+Setting Advertisements v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements
+  UnityEngine.Advertisements.dll (Extension) GUID: 739bbd9f364b4268874f9fd86ab3beef
+  Editor/UnityEditor.Advertisements.dll (Extension) GUID: 97decbdab0634cdd991f8d23ddf0dead
+Setting GUISystem v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem
+  UnityEngine.UI.dll (Extension) GUID: f5f67c52d1564df4a8936ccd202a3bd8
+  Standalone/UnityEngine.UI.dll (Extension) GUID: f70555f144d8491a825f0804e09c671c
+  Editor/UnityEditor.UI.dll (Extension) GUID: 80a3616ca19596e4da0f10f14d241e9f
+Setting UNetHLAPI v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking
+  UnityEngine.Networking.dll (Extension) GUID: 870353891bb340e2b2a9c8707e7419ba
+  Standalone/UnityEngine.Networking.dll (Extension) GUID: dc443db3e92b4983b9738c1131f555cb
+  Editor/UnityEditor.Networking.dll (Extension) GUID: 5f32cd94baa94578a686d4b9d6b660f7
+Setting TestRunner v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner
+  Editor/UnityEditor.TestRunner.dll (Extension) GUID: 4113173d5e95493ab8765d7b08371de4
+  UnityEngine.TestRunner.dll (Extension) GUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+  net35/unity-custom/nunit.framework.dll (Extension) GUID: 4b3fa4bde7f1451a8218c03ee6a8ded8
+  portable/nunit.framework.dll (Extension) GUID: 405b9b51bb344a128608d968297df79c
+Setting Timeline v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline
+  RuntimeEditor/UnityEngine.Timeline.dll (Extension) GUID: 844F815391DB42D49455CBF1A7BFC434
+  Runtime/UnityEngine.Timeline.dll (Extension) GUID: 6a10b2909283487f913b00d94cd3faf5
+  Editor/UnityEditor.Timeline.dll (Extension) GUID: 7668179ede524d6396c8b7d84461ea29
+Setting TreeEditor v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor
+  Editor/UnityEditor.TreeEditor.dll (Extension) GUID: adebbd281f1a4ef3a30be7f21937e02f
+Setting UnityAnalytics v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics
+  UnityEngine.Analytics.dll (Extension) GUID: 852E56802EB941638ACBB491814497B0
+  Editor/UnityEditor.Analytics.dll (Extension) GUID: 86f4de9468454445ac2f39e207fafa3a
+Setting UnityHoloLens v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens
+  Editor/UnityEditor.HoloLens.dll (Extension) GUID: 12fd8a0055b84bb59e84c9835a37e333
+  Runtime/UnityEngine.HoloLens.dll (Extension) GUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+  RuntimeEditor/UnityEngine.HoloLens.dll (Extension) GUID: 1c6d1fbb51834b64847b1b73a75bfc77
+Setting UnityPurchasing v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing
+  UnityEngine.Purchasing.dll (Extension) GUID: 8E0CD8ED44D4412CBE0642067ABC9E44
+  Editor/UnityEditor.Purchasing.dll (Extension) GUID: 8382B2BB260241859771B69B7F377A8D
+Setting UnityVR v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityVR
+  Editor/UnityEditor.VR.dll (Extension) GUID: 4ba2329b63d54f0187bcaa12486b1b0f
+Registering platform support modules:
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Compiler.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Parser.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.Lang.dll (this message is harmless)
+Registered platform support modules in: 0.0484248s.
+Native extension for OSXStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Native extension for SamsungTV target not found
+Native extension for Tizen target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Validating Project structure ... 0.000089 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.000018 seconds.
+Refresh: detecting if any assets need to be imported or removed ... 
+Hashing assets ... 0.011 seconds
+  file open: 0.003 seconds (18 files)
+  file read: 0.002 seconds (10.744 MB)
+  hash: 0.010 seconds
+----- Compute hash(es) for 9 asset(s).
+
+Refresh: elapses 0.102543 seconds
+Updating Assets - GUID: 00000000000000001000000000000000...
+ done. [Time: 35.606000 ms] 
+Updating ProjectSettings/InputManager.asset - GUID: 00000000000000002000000000000000...
+ done. [Time: 4.558000 ms] 
+Updating ProjectSettings/TagManager.asset - GUID: 00000000000000003000000000000000...
+ done. [Time: 4.002000 ms] 
+Updating ProjectSettings/ProjectSettings.asset - GUID: 00000000000000004000000000000000...
+ done. [Time: 11.506000 ms] 
+Updating ProjectSettings/NavMeshAreas.asset - GUID: 00000000000000004100000000000000...
+ done. [Time: 3.987000 ms] 
+Updating Library/BuildPlayer.prefs - GUID: 00000000000000005000000000000000...
+ done. [Time: 4.506000 ms] 
+Updating ProjectSettings/Physics2DSettings.asset - GUID: 00000000000000005100000000000000...
+ done. [Time: 4.288000 ms] 
+Updating ProjectSettings/AudioManager.asset - GUID: 00000000000000006000000000000000...
+Audio: FMOD Profiler initialized on port 54900
+AudioManager: Using PulseAudio: Default Output Device
+ done. [Time: 66.846000 ms] 
+Updating ProjectSettings/GraphicsSettings.asset - GUID: 00000000000000006100000000000000...
+ done. [Time: 8.478000 ms] 
+Updating ProjectSettings/TimeManager.asset - GUID: 00000000000000007000000000000000...
+ done. [Time: 4.188000 ms] 
+Updating ProjectSettings/ClusterInputManager.asset - GUID: 00000000000000007100000000000000...
+ done. [Time: 31.846000 ms] 
+Updating ProjectSettings/DynamicsManager.asset - GUID: 00000000000000008000000000000000...
+ done. [Time: 5.121000 ms] 
+Updating ProjectSettings/QualitySettings.asset - GUID: 00000000000000009000000000000000...
+ done. [Time: 4.157000 ms] 
+Updating ProjectSettings/NetworkManager.asset - GUID: 0000000000000000a000000000000000...
+ done. [Time: 3.867000 ms] 
+Updating ProjectSettings/UnityConnectSettings.asset - GUID: 0000000000000000a100000000000000...
+ done. [Time: 4.069000 ms] 
+Updating ProjectSettings/EditorBuildSettings.asset - GUID: 0000000000000000b000000000000000...
+ done. [Time: 4.229000 ms] 
+Updating ProjectSettings/EditorSettings.asset - GUID: 0000000000000000c000000000000000...
+ done. [Time: 4.006000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/VR/OSXUniversal/AudioPluginOculusSpatializer.bundle - GUID: 32188fd89022c154c81befa2f0e00be0...
+ done. [Time: 5.501000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/VR/OSXUniversal/OVRPlugin.bundle - GUID: 5782f9e9e6e0bb94bac99aeea24814fc...
+ done. [Time: 6.238000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll - GUID: 12fd8a0055b84bb59e84c9835a37e333...
+ done. [Time: 36.996000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll - GUID: 1c6d1fbb51834b64847b1b73a75bfc77...
+ done. [Time: 17.573000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll - GUID: 4113173d5e95493ab8765d7b08371de4...
+ done. [Time: 39.984000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll - GUID: 4b3fa4bde7f1451a8218c03ee6a8ded8...
+ done. [Time: 26.144000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll - GUID: 4ba2329b63d54f0187bcaa12486b1b0f...
+ done. [Time: 9.154000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll - GUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1...
+ done. [Time: 28.382000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll - GUID: 5f32cd94baa94578a686d4b9d6b660f7...
+ done. [Time: 35.588000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll - GUID: 6a10b2909283487f913b00d94cd3faf5...
+ done. [Time: 50.910000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll - GUID: 739bbd9f364b4268874f9fd86ab3beef...
+ done. [Time: 29.749000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll - GUID: 7668179ede524d6396c8b7d84461ea29...
+ done. [Time: 62.219000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll - GUID: 80a3616ca19596e4da0f10f14d241e9f...
+ done. [Time: 46.540000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/Editor/UnityEditor.Purchasing.dll - GUID: 8382b2bb260241859771b69b7f377a8d...
+ done. [Time: 10.949000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll - GUID: 844f815391db42d49455cbf1a7bfc434...
+ done. [Time: 37.716000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll - GUID: 852e56802eb941638acbb491814497b0...
+ done. [Time: 15.293000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll - GUID: 86f4de9468454445ac2f39e207fafa3a...
+ done. [Time: 26.584000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll - GUID: 870353891bb340e2b2a9c8707e7419ba...
+ done. [Time: 32.912000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll - GUID: 8e0cd8ed44d4412cbe0642067abc9e44...
+ done. [Time: 20.427000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll - GUID: 97decbdab0634cdd991f8d23ddf0dead...
+ done. [Time: 9.296000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll - GUID: adebbd281f1a4ef3a30be7f21937e02f...
+ done. [Time: 23.062000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll - GUID: dc443db3e92b4983b9738c1131f555cb...
+ done. [Time: 34.555000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll - GUID: f5f67c52d1564df4a8936ccd202a3bd8...
+ done. [Time: 55.650000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll - GUID: f70555f144d8491a825f0804e09c671c...
+ done. [Time: 59.836000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll - GUID: f7b54ff4a43d4fcf81b4538b678e0bcc...
+ done. [Time: 18.272000 ms] 
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEngine.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.Locator.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/2017.1.0/Unity.PackageManager.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/2017.1.0/Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/Editor/UnityEditor.Purchasing.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/Editor/UnityEditor.Purchasing.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/UnityEditor.Tizen.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/UnityEditor.Tizen.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/UnityEditor.SamsungTV.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/UnityEditor.SamsungTV.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Core.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/ExCSS.Unity.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 20.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.DataContract.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Mono.Cecil.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.SerializationLogic.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.Legacy.NRefactory.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Xml.Linq.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.IvyParser.dll (this message is harmless)
+Mono: successfully reloaded assembly
+- Completed reload, in  0.493 seconds
+Initializing Unity.PackageManager (PackageManager) v2017.1.0 for Unity v2017.1.0xf3Linux
+Setting Android:Android v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer
+Setting Standalone:StandaloneLinux v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
+Setting Standalone:StandaloneOSXIntel v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport
+Setting SamsungTV:SamsungTV v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer
+Setting Tizen:Tizen v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer
+Setting WebGL:WebGL v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport
+Setting Standalone:StandaloneWindows v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+Setting Unknown:MetroPlayer v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport
+Setting Advertisements v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements
+  UnityEngine.Advertisements.dll (Extension) GUID: 739bbd9f364b4268874f9fd86ab3beef
+  Editor/UnityEditor.Advertisements.dll (Extension) GUID: 97decbdab0634cdd991f8d23ddf0dead
+Setting GUISystem v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem
+  UnityEngine.UI.dll (Extension) GUID: f5f67c52d1564df4a8936ccd202a3bd8
+  Standalone/UnityEngine.UI.dll (Extension) GUID: f70555f144d8491a825f0804e09c671c
+  Editor/UnityEditor.UI.dll (Extension) GUID: 80a3616ca19596e4da0f10f14d241e9f
+Setting UNetHLAPI v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking
+  UnityEngine.Networking.dll (Extension) GUID: 870353891bb340e2b2a9c8707e7419ba
+  Standalone/UnityEngine.Networking.dll (Extension) GUID: dc443db3e92b4983b9738c1131f555cb
+  Editor/UnityEditor.Networking.dll (Extension) GUID: 5f32cd94baa94578a686d4b9d6b660f7
+Setting TestRunner v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner
+  Editor/UnityEditor.TestRunner.dll (Extension) GUID: 4113173d5e95493ab8765d7b08371de4
+  UnityEngine.TestRunner.dll (Extension) GUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+  net35/unity-custom/nunit.framework.dll (Extension) GUID: 4b3fa4bde7f1451a8218c03ee6a8ded8
+  portable/nunit.framework.dll (Extension) GUID: 405b9b51bb344a128608d968297df79c
+Setting Timeline v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline
+  RuntimeEditor/UnityEngine.Timeline.dll (Extension) GUID: 844F815391DB42D49455CBF1A7BFC434
+  Runtime/UnityEngine.Timeline.dll (Extension) GUID: 6a10b2909283487f913b00d94cd3faf5
+  Editor/UnityEditor.Timeline.dll (Extension) GUID: 7668179ede524d6396c8b7d84461ea29
+Setting TreeEditor v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor
+  Editor/UnityEditor.TreeEditor.dll (Extension) GUID: adebbd281f1a4ef3a30be7f21937e02f
+Setting UnityAnalytics v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics
+  UnityEngine.Analytics.dll (Extension) GUID: 852E56802EB941638ACBB491814497B0
+  Editor/UnityEditor.Analytics.dll (Extension) GUID: 86f4de9468454445ac2f39e207fafa3a
+Setting UnityHoloLens v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens
+  Editor/UnityEditor.HoloLens.dll (Extension) GUID: 12fd8a0055b84bb59e84c9835a37e333
+  Runtime/UnityEngine.HoloLens.dll (Extension) GUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+  RuntimeEditor/UnityEngine.HoloLens.dll (Extension) GUID: 1c6d1fbb51834b64847b1b73a75bfc77
+Setting UnityPurchasing v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing
+  UnityEngine.Purchasing.dll (Extension) GUID: 8E0CD8ED44D4412CBE0642067ABC9E44
+  Editor/UnityEditor.Purchasing.dll (Extension) GUID: 8382B2BB260241859771B69B7F377A8D
+Setting UnityVR v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityVR
+  Editor/UnityEditor.VR.dll (Extension) GUID: 4ba2329b63d54f0187bcaa12486b1b0f
+Registering platform support modules:
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Compiler.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Parser.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.Lang.dll (this message is harmless)
+Registered platform support modules in: 0.0402985s.
+Native extension for OSXStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Native extension for SamsungTV target not found
+Native extension for Tizen target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/portable/nunit.framework.dll - GUID: 405b9b51bb344a128608d968297df79c...
+ done. [Time: 36.312000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/VR/Android/libAudioPluginOculusSpatializer.so - GUID: 0d3bb855445e36e479c85976fc88383a...
+ done. [Time: 9.881000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/VR/Win/OVRPlugin.dll - GUID: 21eff446d50eaf44a85985cd4c0b6fa1...
+ done. [Time: 10.494000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/VR/Win64/AudioPluginOculusSpatializer.dll - GUID: 2682a692a2be7e14e901a738c7806da0...
+ done. [Time: 10.122000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/VR/Android/gvr.aar - GUID: 38c8faf1788024c02930a0c68a6e0edc...
+ done. [Time: 10.051000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/VR/Android/OVRPlugin.aar - GUID: 517af1b5b81b93b43b9745d58f017562...
+ done. [Time: 9.370000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/VR/Win/AudioPluginOculusSpatializer.dll - GUID: 8e7066e382b0fc749b25dbb1a3004dfe...
+ done. [Time: 11.755000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/VR/Android/libprotobuf-java-nano.jar - GUID: b2b693dffac3a4433b3114fea0b7fd4e...
+ done. [Time: 11.191000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/VR/Win64/OVRPlugin.dll - GUID: b2bead50dbf86924f8e51f03ddbebf70...
+ done. [Time: 9.857000 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/VR/Android/unitygvr.aar - GUID: e1007cd261c84053beb0c3537782908d...
+ done. [Time: 10.611000 ms] 
+Unloading 43 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 12.7 MB.
+System memory in use after: 12.7 MB.
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 585.
+Total: 1.310000 ms (FindLiveObjects: 0.177000 ms CreateObjectMapping: 0.024000 ms MarkObjects: 1.018000 ms  DeleteObjects: 0.086000 ms)
+
+Refreshing native plugins compatible for Editor in 39.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+
+----- Total AssetImport time: 1.965207s, AssetImport time: 1.824612s, Asset hashing: 0.011204s [10.7 MB, 958.915283 mb/s]
+
+Updating ProjectSettings/InputManager.asset - GUID: 00000000000000002000000000000000...
+ done. [Time: 4.052000 ms] 
+Updating ProjectSettings/TagManager.asset - GUID: 00000000000000003000000000000000...
+ done. [Time: 3.447000 ms] 
+Updating ProjectSettings/ProjectSettings.asset - GUID: 00000000000000004000000000000000...
+ done. [Time: 3.485000 ms] 
+Updating ProjectSettings/NavMeshAreas.asset - GUID: 00000000000000004100000000000000...
+ done. [Time: 3.139000 ms] 
+Updating ProjectSettings/Physics2DSettings.asset - GUID: 00000000000000005100000000000000...
+ done. [Time: 3.577000 ms] 
+Updating ProjectSettings/AudioManager.asset - GUID: 00000000000000006000000000000000...
+ done. [Time: 3.301000 ms] 
+Updating ProjectSettings/GraphicsSettings.asset - GUID: 00000000000000006100000000000000...
+ done. [Time: 3.716000 ms] 
+Updating ProjectSettings/TimeManager.asset - GUID: 00000000000000007000000000000000...
+ done. [Time: 3.139000 ms] 
+Updating ProjectSettings/ClusterInputManager.asset - GUID: 00000000000000007100000000000000...
+ done. [Time: 3.143000 ms] 
+Updating ProjectSettings/DynamicsManager.asset - GUID: 00000000000000008000000000000000...
+ done. [Time: 3.558000 ms] 
+Updating ProjectSettings/QualitySettings.asset - GUID: 00000000000000009000000000000000...
+ done. [Time: 3.398000 ms] 
+Updating ProjectSettings/NetworkManager.asset - GUID: 0000000000000000a000000000000000...
+ done. [Time: 3.534000 ms] 
+Updating ProjectSettings/UnityConnectSettings.asset - GUID: 0000000000000000a100000000000000...
+ done. [Time: 3.250000 ms] 
+Updating ProjectSettings/EditorBuildSettings.asset - GUID: 0000000000000000b000000000000000...
+ done. [Time: 3.057000 ms] 
+Updating ProjectSettings/EditorSettings.asset - GUID: 0000000000000000c000000000000000...
+ done. [Time: 3.469000 ms] 
+Unloading 48 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 12.2 MB.
+System memory in use after: 12.3 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 585.
+Total: 1.189000 ms (FindLiveObjects: 0.112000 ms CreateObjectMapping: 0.019000 ms MarkObjects: 0.963000 ms  DeleteObjects: 0.092000 ms)
+
+Refreshing native plugins compatible for Editor in 39.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+
+----- Total AssetImport time: 0.173393s, AssetImport time: 0.094735s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.040515 seconds
+Updating Library/BuildPlayer.prefs - GUID: 00000000000000005000000000000000...
+ done. [Time: 4.995000 ms] 
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+
+----- Total AssetImport time: 0.074447s, AssetImport time: 0.035607s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+Determining assets that need to be reimported for target platform ... 0.019010 seconds.
+
+Hashing assets ... 0.000 seconds
+  file open: 0.000 seconds (0 files)
+  file read: 0.000 seconds (0.000 MB)
+  hash: 0.000 seconds
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+
+----- Total AssetImport time: 0.019490s, AssetImport time: 0.000000s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+Updating ProjectSettings/ProjectSettings.asset - GUID: 00000000000000004000000000000000...
+ done. [Time: 3.868000 ms] 
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+
+----- Total AssetImport time: 0.055789s, AssetImport time: 0.024197s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+Warming cache for 52 main assets: 0.000407 seconds elapsed
+Initializing Unity extensions:
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll'  GUID: 12fd8a0055b84bb59e84c9835a37e333
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll'  GUID: 852e56802eb941638acbb491814497b0
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll'  GUID: 6a10b2909283487f913b00d94cd3faf5
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/portable/nunit.framework.dll'  GUID: 405b9b51bb344a128608d968297df79c
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll'  GUID: f70555f144d8491a825f0804e09c671c
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'  GUID: f5f67c52d1564df4a8936ccd202a3bd8
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll'  GUID: 844f815391db42d49455cbf1a7bfc434
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll'  GUID: dc443db3e92b4983b9738c1131f555cb
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll'  GUID: 5f32cd94baa94578a686d4b9d6b660f7
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll'  GUID: 86f4de9468454445ac2f39e207fafa3a
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll'  GUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll'  GUID: adebbd281f1a4ef3a30be7f21937e02f
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'  GUID: 870353891bb340e2b2a9c8707e7419ba
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll'  GUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll'  GUID: 97decbdab0634cdd991f8d23ddf0dead
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll'  GUID: 4ba2329b63d54f0187bcaa12486b1b0f
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/Editor/UnityEditor.Purchasing.dll'  GUID: 8382b2bb260241859771b69b7f377a8d
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll'  GUID: 1c6d1fbb51834b64847b1b73a75bfc77
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll'  GUID: 80a3616ca19596e4da0f10f14d241e9f
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll'  GUID: 4113173d5e95493ab8765d7b08371de4
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll'  GUID: 4b3fa4bde7f1451a8218c03ee6a8ded8
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll'  GUID: 8e0cd8ed44d4412cbe0642067abc9e44
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll'  GUID: 7668179ede524d6396c8b7d84461ea29
+ '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll'  GUID: 739bbd9f364b4268874f9fd86ab3beef
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 12.0 MB.
+System memory in use after: 12.0 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 613.
+Total: 0.995000 ms (FindLiveObjects: 0.086000 ms CreateObjectMapping: 0.013000 ms MarkObjects: 0.882000 ms  DeleteObjects: 0.013000 ms)
+
+requesting resize 818 x 338
+resizing window to 818 x 338
+Desktop is 1366 x 768 @ 60 Hz
+requesting resize 818 x 338
+resizing window to 818 x 338
+Desktop is 1366 x 768 @ 60 Hz
+requesting resize 818 x 338
+resizing window to 818 x 338
+Desktop is 1366 x 768 @ 60 Hz
+requesting resize 818 x 323
+resizing window to 818 x 323
+Desktop is 1366 x 768 @ 60 Hz
+requesting resize 818 x 323
+resizing window to 818 x 323
+Desktop is 1366 x 768 @ 60 Hz
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000674 seconds (Nothing changed)
+requesting resize 818 x 323
+resizing window to 818 x 323
+Desktop is 1366 x 768 @ 60 Hz
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+[0803/064558:ERROR:browser_main_loop.cc(207)] GLib-GObject: invalid cast from 'GtkDrawingArea' to 'GtkDialog'
+[0803/064558:ERROR:browser_main_loop.cc(207)] Gtk: IA__gtk_dialog_get_content_area: assertion 'GTK_IS_DIALOG (dialog)' failed
+[0803/064558:ERROR:renderer_main.cc(227)] Running without renderer sandbox
+Updating ProjectSettings/ProjectSettings.asset - GUID: 00000000000000004000000000000000...
+ done. [Time: 2.550000 ms] 
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+
+----- Total AssetImport time: 0.054385s, AssetImport time: 0.020947s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+UPID Received 'f36841d4-48b3-4e96-8f61-1aba70e923d7'.
+Issue TrimJob to reduce GI Cache size to maximum 10GB at: '/home/ryley/.cache/unity3d/GiCache'
+[00:00:01] Enlighten: Precompute started.
+UPID Received 'f36841d4-48b3-4e96-8f61-1aba70e923d7'.
+TrimDiskCacheJob: Current cache size 0mb
+[00:00:01] Enlighten: Finished 1 Layout Systems job (0.00s execute, 0.00s integrate, 0.32s wallclock)
+[00:00:02] Enlighten: Finished 1 Tetrahedralize Probes job (0.00s execute, 0.00s integrate, 0.32s wallclock)
+[00:00:02] Enlighten: Precompute took 0.637338 seconds.
+Enlighten scene contents:   0 geometries.   0 instances.   0 systems.   0 probe groups.   0 cube maps. Scene is up-to-date.
+[00:00:02] Enlighten: Bake started.
+[PathTracer][LP] Issuing deduplication and tetrahedralization job. Combined: 80257199cfa681a16be5e09b3c2208f4, tetrahedralized probes: 00000000000000000000000000000000, non-tetrahedralized probes: 00000000000000000000000000000000, dependencies: 00000000000000000000000000000000
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 7fed49aae700 -> priority: 1 
+  Thread -> id: 7fed4a2af700 -> priority: 1 
+  Thread -> id: 7fed492ad700 -> priority: 1 
+  Thread -> id: 7fed48aac700 -> priority: 1 
+[CEF] TypeError: Cannot read property '3' of undefined
+    at i (https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub/assets/unityeditor-cloud-hub.js:25:14708)
+    at Object.t.isSupported (https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub/assets/unityeditor-cloud-hub.js:25:15211)
+    at Object.t.userAgent.versionGte (https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub/assets/unityeditor-cloud-hub.js:25:15124)
+    at n.a.showMembersPanel (https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub/assets/unityeditor-cloud-hub.js:43:4323)
+    at fn (eval at <anonymous> (https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub/assets/unityeditor-cloud-hub.js:15:16580), <anonymous>:4:239)
+    at n.$eval (https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub/assets/unityeditor-cloud-hub.js:14:5190)
+    at HTMLLIElement.<anonymous> (https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub/assets/unityeditor-cloud-hub.js:26:10355)
+    at Function.pa.extend.each (https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub/assets/unityeditor-cloud-hub.js:8:19575)
+    at pa.fn.pa.each (https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub/assets/unityeditor-cloud-hub.js:8:17843)
+    at link (https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub/assets/unityeditor-cloud-hub.js:26:10302) in https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub/assets/unityeditor-cloud-hub.js at line 13
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.031803 seconds
+Updating Library/BuildPlayer.prefs - GUID: 00000000000000005000000000000000...
+ done. [Time: 2.667000 ms] 
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+
+----- Total AssetImport time: 0.067909s, AssetImport time: 0.034962s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+Service Flag set for project 'f36841d4-48b3-4e96-8f61-1aba70e923d7'.
+[00:00:02] Enlighten: Finished 1 Bake Runtime job (0.26s execute, 0.00s integrate, 0.27s wallclock)
+[00:00:02] Enlighten: Bake took 0.265236 seconds.
+[PathTracer][LP] Integrating deduplicated and tetrahedralized probes for hash 80257199cfa681a16be5e09b3c2208f4.
+Reloading assemblies due to reload request.
+Begin MonoManager ReloadAssembly
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEngine.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.Locator.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/2017.1.0/Unity.PackageManager.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/2017.1.0/Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/Editor/UnityEditor.Purchasing.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/Editor/UnityEditor.Purchasing.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/UnityEditor.Tizen.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/UnityEditor.Tizen.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/UnityEditor.SamsungTV.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/UnityEditor.SamsungTV.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Core.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/ExCSS.Unity.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.DataContract.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Mono.Cecil.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.SerializationLogic.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Xml.Linq.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.Legacy.NRefactory.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.IvyParser.dll (this message is harmless)
+requesting resize 818 x 323
+resizing window to 818 x 323
+Desktop is 1366 x 768 @ 60 Hz
+Mono: successfully reloaded assembly
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+
+----- Total AssetImport time: 0.046357s, AssetImport time: 0.000000s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+- Completed reload, in  0.858 seconds
+Initializing Unity.PackageManager (PackageManager) v2017.1.0 for Unity v2017.1.0xf3Linux
+Setting Android:Android v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer
+Setting Standalone:StandaloneLinux v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
+Setting Standalone:StandaloneOSXIntel v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport
+Setting SamsungTV:SamsungTV v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer
+Setting Tizen:Tizen v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer
+Setting WebGL:WebGL v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport
+Setting Standalone:StandaloneWindows v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+Setting Unknown:MetroPlayer v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/PlaybackEngines/iOSSupport
+Setting Advertisements v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements
+  UnityEngine.Advertisements.dll (Extension) GUID: 739bbd9f364b4268874f9fd86ab3beef
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+  Editor/UnityEditor.Advertisements.dll (Extension) GUID: 97decbdab0634cdd991f8d23ddf0dead
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+Setting GUISystem v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem
+  UnityEngine.UI.dll (Extension) GUID: f5f67c52d1564df4a8936ccd202a3bd8
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+  Standalone/UnityEngine.UI.dll (Extension) GUID: f70555f144d8491a825f0804e09c671c
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+  Editor/UnityEditor.UI.dll (Extension) GUID: 80a3616ca19596e4da0f10f14d241e9f
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+Setting UNetHLAPI v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking
+  UnityEngine.Networking.dll (Extension) GUID: 870353891bb340e2b2a9c8707e7419ba
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+  Standalone/UnityEngine.Networking.dll (Extension) GUID: dc443db3e92b4983b9738c1131f555cb
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+  Editor/UnityEditor.Networking.dll (Extension) GUID: 5f32cd94baa94578a686d4b9d6b660f7
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+Setting TestRunner v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/TestRunner
+  Editor/UnityEditor.TestRunner.dll (Extension) GUID: 4113173d5e95493ab8765d7b08371de4
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+  UnityEngine.TestRunner.dll (Extension) GUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+  net35/unity-custom/nunit.framework.dll (Extension) GUID: 4b3fa4bde7f1451a8218c03ee6a8ded8
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+  portable/nunit.framework.dll (Extension) GUID: 405b9b51bb344a128608d968297df79c
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+Setting Timeline v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline
+  RuntimeEditor/UnityEngine.Timeline.dll (Extension) GUID: 844F815391DB42D49455CBF1A7BFC434
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+  Runtime/UnityEngine.Timeline.dll (Extension) GUID: 6a10b2909283487f913b00d94cd3faf5
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+  Editor/UnityEditor.Timeline.dll (Extension) GUID: 7668179ede524d6396c8b7d84461ea29
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+Setting TreeEditor v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor
+  Editor/UnityEditor.TreeEditor.dll (Extension) GUID: adebbd281f1a4ef3a30be7f21937e02f
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+Setting UnityAnalytics v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics
+  UnityEngine.Analytics.dll (Extension) GUID: 852E56802EB941638ACBB491814497B0
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+  Editor/UnityEditor.Analytics.dll (Extension) GUID: 86f4de9468454445ac2f39e207fafa3a
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+Setting UnityHoloLens v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens
+  Editor/UnityEditor.HoloLens.dll (Extension) GUID: 12fd8a0055b84bb59e84c9835a37e333
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+  Runtime/UnityEngine.HoloLens.dll (Extension) GUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+  RuntimeEditor/UnityEngine.HoloLens.dll (Extension) GUID: 1c6d1fbb51834b64847b1b73a75bfc77
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+Setting UnityPurchasing v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing
+  UnityEngine.Purchasing.dll (Extension) GUID: 8E0CD8ED44D4412CBE0642067ABC9E44
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+  Editor/UnityEditor.Purchasing.dll (Extension) GUID: 8382B2BB260241859771B69B7F377A8D
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+Setting UnityVR v2017.1.0 for Unity v2017.1.0xf3Linux to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityVR
+  Editor/UnityEditor.VR.dll (Extension) GUID: 4ba2329b63d54f0187bcaa12486b1b0f
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
+    Ignoring '/opt/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
+Registering platform support modules:
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Compiler.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Parser.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.Lang.dll (this message is harmless)
+Registered platform support modules in: 0.0416675s.
+Native extension for OSXStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Native extension for SamsungTV target not found
+Native extension for Tizen target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+[PathTracer] Lightmap reset.
+[PathTracer][LP] Light probes reset.
+[PathTracer] building lightmap data asset.
+[00:00:06] Enlighten: Reflection Probes started.
+[00:00:06] Enlighten: Finished 1 Ambient Probes job (0.00s execute, 0.00s integrate, 0.30s wallclock)
+Starting cubemap convolution for '' (size 128)
+...took 0.154 seconds
+[00:00:08] Enlighten: Finished 1 Reflection Probes job (0.57s execute, 0.00s integrate, 2.12s wallclock)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000406 seconds (Nothing changed)
+requesting resize 818 x 323
+resizing window to 818 x 323
+Desktop is 1366 x 768 @ 60 Hz
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000252 seconds (Nothing changed)
+requesting resize 818 x 323
+resizing window to 818 x 323
+Desktop is 1366 x 768 @ 60 Hz
+requesting resize 820 x 353
+resizing window to 820 x 353
+Desktop is 1366 x 768 @ 60 Hz
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000315 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000260 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000285 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000343 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000277 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000341 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000244 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000273 seconds (Nothing changed)
+[0803/064839:ERROR:browser_main_loop.cc(207)] GLib-GObject: invalid cast from 'GtkDrawingArea' to 'GtkDialog'
+[0803/064839:ERROR:browser_main_loop.cc(207)] Gtk: IA__gtk_dialog_get_content_area: assertion 'GTK_IS_DIALOG (dialog)' failed
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000253 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000362 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000270 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000277 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000308 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000542 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000257 seconds (Nothing changed)
+Updating ProjectSettings/UnityConnectSettings.asset - GUID: 0000000000000000a100000000000000...
+ done. [Time: 6.365000 ms] 
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+
+----- Total AssetImport time: 0.053667s, AssetImport time: 0.023553s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.029015 seconds
+Updating Library/BuildPlayer.prefs - GUID: 00000000000000005000000000000000...
+ done. [Time: 2.538000 ms] 
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+
+----- Total AssetImport time: 0.057408s, AssetImport time: 0.027226s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+Cleanup mono
+debugger-agent: Unable to listen on 113
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UsbDevices.cpp:UsbDevicesQuery
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+[usbmuxd] Stop listen thread
+[usbmuxd] Listen thread exiting

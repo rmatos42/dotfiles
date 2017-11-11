@@ -1,0 +1,14 @@
+{
+   "content_scripts": [ {
+      "js": [ "main.js" ],
+      "matches": [ "http://adf.ly/*", "http://j.gs/*", "http://q.gs/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Bypassing adf.ly advertise.",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCujXh2x9hlVzBRrh/IvWE0FOk+M7rd1Ngisojbq+M2GEGLA4vUlw7ZuOuocLrPxf0ChwAedJIRsc2jHIxuyNqoaJe1MYjiU1LqYxn4ZjXxDswblW8nqN1S416CQUOgvQ29RHDHstN8z5mFb0cDQk/RhG1qxY0XPhta26Ucx/iWSwIDAQAB",
+   "manifest_version": 2,
+   "name": "byPass adf.ly",
+   "permissions": [ "tabs", "http://adf.ly/*", "http://j.gs/*", "http://q.gs/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3"
+}

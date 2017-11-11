@@ -1,0 +1,20 @@
+2017/09/16-13:10:59.042 6535 Reusing MANIFEST /home/ryley/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2017/09/16-13:10:59.043 6535 Recovering log #68
+2017/09/16-13:10:59.060 6535 Reusing old log /home/ryley/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000068.log 
+2017/09/16-13:18:02.770 6940 Level-0 table #72: started
+2017/09/16-13:18:02.886 6940 Level-0 table #72: 2356575 bytes OK
+2017/09/16-13:18:02.931 6940 Delete type=0 #68
+2017/09/16-13:18:02.932 6940 Compacting 4@0 + 2@1 files
+2017/09/16-13:18:03.031 6940 Generated table #73@0: 10 keys, 2152210 bytes
+2017/09/16-13:18:03.154 6940 Generated table #74@0: 18 keys, 4295231 bytes
+2017/09/16-13:18:03.154 6940 Compacted 4@0 + 2@1 files => 6447441 bytes
+2017/09/16-13:18:03.199 6940 compacted to: files[ 0 3 1 0 0 0 0 ]
+2017/09/16-13:18:03.199 6940 Delete type=2 #69
+2017/09/16-13:18:03.216 6940 Delete type=2 #66
+2017/09/16-13:18:03.216 6940 Delete type=2 #59
+2017/09/16-13:18:03.216 6940 Delete type=2 #60
+2017/09/16-13:18:03.216 6940 Delete type=2 #72
+2017/09/16-13:18:03.217 6940 Delete type=2 #63
+2017/09/16-13:58:57.594 6940 Level-0 table #76: started
+2017/09/16-13:58:57.747 6940 Level-0 table #76: 3760087 bytes OK
+2017/09/16-13:58:57.792 6940 Delete type=0 #71
